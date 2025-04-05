@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Sumeet Sharma</h1>
+<h1 align="center">Hey 👋, I'm Sonakshi Tiwari</h1>
 <h3 align="center">A Passionate Software Engineer & Web3 Learner from India</h3>
 
 ---
