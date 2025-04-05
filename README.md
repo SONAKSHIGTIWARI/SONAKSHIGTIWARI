@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Sonakshi Tiwari</h1>
-<h3 align="center">A Passionate Software Engineer & Web3 Learner from India</h3>
+<h3 align="center">An Aspiring Software Engineer & Web3 Learner from India</h3>
 
 ---
 
@@ -52,9 +52,9 @@
 
 ### 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your-profile/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=firefox&logoColor=white)](https://yourportfolio.com)
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sonakshi-tiwari-ba7329339/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=firefox&logoColor=white)]()
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](sonakshitiwari460@gmail.com)
 
 ---
 
