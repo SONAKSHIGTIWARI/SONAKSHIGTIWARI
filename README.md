@@ -1,6 +1,6 @@
 ## Hey 👋 What's up?
 
-I'm [Your Name] and I'm a Software Engineer from [Your Country].
+I'm Sonakshi Tiwari and I'm an Aspiring  Software Engineer from India.
 
 ### 🔍 About Me
 
@@ -20,5 +20,3 @@ I'm [Your Name] and I'm a Software Engineer from [Your Country].
 
 ### 📈 GitHub Stats
 
-![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical)
