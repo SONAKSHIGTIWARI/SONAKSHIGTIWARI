@@ -7,7 +7,7 @@
 
 - 🐞 Creating bugs since I started coding  
 - 📚 Currently diving into **Web 3.0** & exploring **Advanced DSA** concepts  
-- 🎯 Goals: Land a top internship & master **Competitive Programming**  and good softwere engineer.
+- 🎯 Goals: Land a top internship & master **Competitive Programming**  and excellent softwere engineer.
 - 🤹 Fun Fact: I enjoy solving coding puzzles just for fun!
 
 ---
